@@ -1,11 +1,15 @@
-# Welcome to your Jupyter Book
+# Penambangan Data 
 
-This is a small sample book to give you a feel for how book content is
-structured.
-It shows off a few of the major file types, as well as some sample content.
-It does not go in-depth into any particular topic - check out [the Jupyter Book documentation](https://jupyterbook.org) for more information.
+Dalam mata kuliah Penambangan Data (Data Mining), penambangan data merujuk pada proses menemukan pola, hubungan, atau informasi yang berguna dari kumpulan data besar menggunakan teknik statistik, pembelajaran mesin, dan kecerdasan buatan. Data mining sering digunakan dalam berbagai bidang seperti bisnis, kesehatan, keuangan, dan ilmu sosial untuk mengambil keputusan berbasis data.
 
-Check out the content pages bundled with this sample book to see more.
+
+Nama    : Muhammad Rossi
+
+Nim     : 230411100033
+
+Prodi   : Teknik Informatika 
+
+Email   : rosssiajah1@gmail.com
 
 ```{tableofcontents}
 ```
